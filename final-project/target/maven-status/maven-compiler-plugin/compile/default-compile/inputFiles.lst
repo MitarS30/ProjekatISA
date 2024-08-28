@@ -1,0 +1,17 @@
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\config\SecurityConfig.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\controller\LoginController.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\controller\UserController.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\createuser\CreateUser.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\FinalProjectApplication.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\model\Order.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\model\OrderItem.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\model\Product.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\model\Role.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\model\User.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\repository\OrderItemRepository.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\repository\OrderRepository.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\repository\ProductRepository.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\repository\RoleRepository.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\repository\UserRepository.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\service\UserService.java
+C:\Users\urosb\Desktop\final-project\final-project\src\main\java\com\example\final_project\UserDetailsService\UserDetailsServiceImpl.java
